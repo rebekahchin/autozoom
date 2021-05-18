@@ -2,7 +2,7 @@
 Automate and record your Zoom meetings
 
 ## Who is this for?
-*autozoom* was created to automatically join and record my university classes that held on Zoom. While my professors did upload the Zoom recordings a few hours after the class ended, I found the audio quality to be lacking. Therefore, this program is most useful if you have Zoom meetings that repeat at a fixed time each week (or every other week) and do not require your participation.\
+*autozoom* was created to automatically join and record my university classes that were held on Zoom. While my professors did upload the Zoom recordings a few hours after the class ended, I found the audio quality to be lacking. Therefore, this program is most useful if you have Zoom meetings that repeat at a fixed time each week (or every other week) and do not require your participation.\
 \
 Note: This program works best on computers that have wake timers enabled. \
 Go to **Power Options>Edit plan settings>Change advanced power settings>Sleep**. \
