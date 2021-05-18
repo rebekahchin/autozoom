@@ -8,6 +8,9 @@ Note: This program works best on computers that have wake timers enabled. \
 Go to **Power Options>Edit plan settings>Change advanced power settings>Sleep**. \
 If you do not see the option **Allow Wake timers**, then your computer manufacturer does not allow users to enable wake timers. You can attempt to circumvent this by enabling it in the Registory Editor. However, this method did not work for me, and I simply used another computer that allowed users to enable wake timers. 
 
+## How does it work?
+*autozoom* relies on OBS Studio to record your computer screen and audio. Therefore, you would not need permission from the Zoom host to record the meeting. After the meeting is over, the recording would be saved on your computer, not the Zoom servers, and would not be further compressed as Zoom cloud recordings are. This program will join any number of meetings based on the information stored in *schedule.txt*.
+
 ## Prerequisites
 * Windows 10 (due to the usage of batch files and Task Scheduler)
 * Zoom
