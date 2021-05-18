@@ -8,7 +8,7 @@ Note: This program works best on computers that have wake timers enabled. \
 Go to **Power Options>Edit plan settings>Change advanced power settings>Sleep**. \
 If you do not see the option **Allow Wake timers**, then your computer manufacturer does not allow users to enable wake timers. You can attempt to circumvent this by enabling it in the Registory Editor. However, this method did not work for me, and I simply used another computer that allowed users to enable wake timers. 
 
-## Prerequesites
+## Prerequisites
 * Windows 10 (due to the usage of batch files and Task Scheduler)
 * Zoom
 * [OBS Studio](https://obsproject.com/download)
